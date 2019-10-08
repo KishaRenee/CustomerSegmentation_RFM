@@ -7,7 +7,7 @@ What is customer segmentation and why bother ?
 What is customer segmentation ?
 Customer segmentation is the division of customers into various groups based on specific attributes. Segmentation types may vary based on these four main characteristics/variable-types:
 
-1. Demographics (eg. age, incme, gender etc.) 
+1. Demographics (eg. age, income, gender etc.) 
 2. Geographic regions (eg. country, region, city, town etc.)
 3. Psychographic (eg. interests, personality traits, attitudes, views )
 4. Behaviour (eg. actual spending pattern/actual purchases)
